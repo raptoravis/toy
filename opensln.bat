@@ -1,0 +1,1 @@
+start .\build\projects\vs2017\toy.sln
