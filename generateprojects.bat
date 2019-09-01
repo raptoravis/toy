@@ -1,1 +1,1 @@
-.\bin\windows\genie vs2017
+.\bin\windows\genie --with-windows=10.0.17763.0 vs2017
