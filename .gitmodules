@@ -7,7 +7,7 @@
 	url = https://github.com/recastnavigation/recastnavigation
 [submodule "two"]
 	path = two
-	url = https://github.com/hugoam/two/
+	url = git@github.com:raptoravis/two.git
 [submodule "3rdparty/hashmap"]
 	path = 3rdparty/hashmap
 	url = https://github.com/skarupke/flat_hash_map
